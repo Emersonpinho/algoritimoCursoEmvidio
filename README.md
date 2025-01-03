@@ -5,7 +5,7 @@
 
 Este repositório contém vários algoritmos desenvolvidos em **Visualg** para fins de estudo e prática de lógica de programação. Cada arquivo `.ALG` representa um exercício ou exemplo de conceitos básicos de programação, como operações matemáticas, estruturas condicionais e manipulação de dados.
 
-## 📋 Índice
+## 📋 Índice:
 
 - [📚 Pré-requisitos](#-pré-requisitos)
 - [📂 Descrição dos Arquivos](#-descrição-dos-arquivos)
@@ -13,11 +13,11 @@ Este repositório contém vários algoritmos desenvolvidos em **Visualg** para f
 - [🚀 Executando os Algoritmos](#-executando-os-algoritmos)
 - [🤝 Contribuições](#-contribuições)
 
-## 📚 Pré-requisitos
+## 📚 Pré-requisitos:
 
 Para rodar esses algoritmos, você precisará instalar o **Visualg**, que é uma ferramenta de desenvolvimento para algoritmos em português. Siga as instruções abaixo para instalar.
 
-## 📂 Descrição dos Arquivos
+## 📂 Descrição dos Arquivos:
 
 Aqui está uma breve descrição dos algoritmos presentes no repositório:
 
@@ -49,7 +49,7 @@ Para executar os arquivos `.ALG`, você precisará do Visualg. Aqui estão os pa
 
 > **Nota:** O Visualg é compatível apenas com Windows. Em outros sistemas operacionais, você pode usar uma máquina virtual ou um emulador.
 
-## 🚀 Executando os Algoritmos
+## 🚀 Executando os Algoritmos:
 
 1. Abra o Visualg.
 2. Carregue o arquivo desejado indo em **Arquivo > Abrir** e selecione um dos arquivos `.ALG` do repositório.
@@ -57,7 +57,7 @@ Para executar os arquivos `.ALG`, você precisará do Visualg. Aqui estão os pa
 
 Cada algoritmo pedirá as entradas necessárias e exibirá o resultado conforme programado.
 
-## 🤝 Contribuições
+## 🤝 Contribuições:
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhoria ou novos algoritmos para adicionar, fique à vontade para abrir uma **issue** ou um **pull request**.
 
